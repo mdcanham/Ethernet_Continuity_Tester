@@ -24,6 +24,8 @@ With the other half of the cat-5e cable we need to prepare the exposed wires to 
 
 Stripping and tinning the cores is not strictly necessary however this will ensure the the cores are able to easily be inserted into a breadboard. See the image below showing how the cores from this cable are inserted into a breadboard.
 
+![Breadboard connection](https://raw.githubusercontent.com/mdcanham/Ethernet_Continuity_Tester/master/images/img-2.jpg)
+
 ## Wiring it all up
 There's nothing too complicated in terms of wiring up this device, there's just a lot going on. Wire up your Arduino as shown in the diagram below.
 
